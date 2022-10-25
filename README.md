@@ -8,6 +8,28 @@ The paper works on the relation between APBT-JPEG and DCT-JPEG. In order to avoi
 
 ## Requirement
 MATLAB Global Optimization Toolbox
-## Figures
+## Instruction:
+1. Put the images folder 'foreman20_40_RGB' and image 'lena_small.tif' in the same path as the .m file.
+2. make sure that MATLAB Global Optimization Toolbox has been installed successfully.
+3. The project is aimed to reproduce the results of the paper, please run the code as the section comments.
 
+## Figures
+![avatar](./slides_01.png)
+![avatar](./slides_02.png)
+![avatar](./slides_03.png)
+## Reference
+Partly based on: <https://github.com/murong-xu/ivc_lab>
+
+Please cite:
+```
+@article{fu2015novel,
+  title={A Novel Deblocking Quantization Table for Luminance Component in Baseline JPEG.},
+  author={Fu, Qiming and Jiang, Baochen and Wang, Cheng-You and Zhou, Xiao},
+  journal={J. Commun.},
+  volume={10},
+  number={8},
+  pages={629--637},
+  year={2015}
+}
+```
 
